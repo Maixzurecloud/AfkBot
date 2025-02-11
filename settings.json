@@ -1,12 +1,12 @@
 {
   "bot-account": {
     "username": "bot",
-    "password": "your_password",
-    "type": "microsoft"
+    "password": "",
+    "type": "mojang"
   },
 
   "server": {
-    "ip": "localhost",
+    "ip": "bugdoenderman.aternos.met",
     "port": 25565,
     "version": "1.19.3"
   },
